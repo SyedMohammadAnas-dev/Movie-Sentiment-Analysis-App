@@ -1,4 +1,4 @@
-#venv/Scripts/activate
+# venv/Scripts/activate
 # cd sentiment-streamlit-app
 # streamlit run app.py
 
